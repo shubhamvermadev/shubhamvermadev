@@ -102,9 +102,12 @@ Feel free to explore my repositories and connect with me!
 # 📊 GitHub Languages stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvermadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 💬 GitHub Gist pins:
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=702e5b84164775d8031ecf4f240f1153&theme=dark)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 ## ![](https://img.shields.io/badge/-CB3837.svg?style=plastic&logo=npm&logoColor=white) NPM Packages
 
-[![Mark Down Editor](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=md-editor&theme=dark)](https://github.com/shubhamvermadev/md-editor)
+[![Mark Down Editor](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=md-editor&theme=dark&hide_border=true)](https://github.com/shubhamvermadev/md-editor)
 [![uuid-generator](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=uuid-generator&theme=dark)](https://github.com/shubhamvermadev/uuid-generator)
 [![OTP-generator](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=otp-generator&theme=dark)](https://github.com/shubhamvermadev/otp-generator)
 
