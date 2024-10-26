@@ -103,7 +103,7 @@ Feel free to explore my repositories and connect with me!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvermadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💬 GitHub Gist pins:
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=702e5b84164775d8031ecf4f240f1153&theme=dark)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=702e5b84164775d8031ecf4f240f1153&theme=dark)](https://gist.github.com/Yizack/702e5b84164775d8031ecf4f240f1153/)
 
 ## ![](https://img.shields.io/badge/-CB3837.svg?style=plastic&logo=npm&logoColor=white) NPM Packages
 
