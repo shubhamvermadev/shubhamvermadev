@@ -2,7 +2,7 @@
 # Shubham Verma 👨‍💻
 
 ## 👋 Introduction
-Hi there! I'm Shubham Verma, a passionate frontend developer who started my journey back in 2020. I began with the fundamentals of HTML, CSS, and JavaScript, and quickly transitioned to modern frameworks like React. After completing a few projects, I decided to broaden my skills by diving into backend development with Node.js and Express. 
+Hi there! I'm Shubham Verma, a passionate full stack developer who started my journey back in 2020. I began with the fundamentals of HTML, CSS, and JavaScript, and quickly transitioned to modern frameworks like React. After completing a few projects, I decided to broaden my skills by diving into backend development with Node.js and Express. 
 
 With over 1.5 years of experience in the MERN stack, I've not only honed my frontend skills but also expanded my expertise to include Angular, Next.js, and Nest.js, adapting to client requirements along the way. This journey has given me a deep understanding of how web applications function behind the scenes. 
 
