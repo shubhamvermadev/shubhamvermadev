@@ -8,9 +8,9 @@ With over 1.5 years of experience in the MERN stack, I've not only honed my fron
 
 One key insight I've gained through 4-5 years in web development is that while development may take up 10-20% of the work, debugging often accounts for 80-90%. My focus on refining my debugging skills has made me a more effective developer.
 
-## 📈 Skills & Projects
+## 📈 Highlights
 - 🕒 **Years of Experience:** 4+ years
-- 💻 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express, Nest.js
+- 💻 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express, Nest.js, Next.js
 - 💼 **Client Projects:** 10+ (focused on delivering high-quality solutions)
 - 🛠️ **Personal Projects:** 3-4 (including npm packages and tools, developed alongside client work)
 - 🐞 **Debugging Skills:** Strong proficiency in troubleshooting and optimizing code
