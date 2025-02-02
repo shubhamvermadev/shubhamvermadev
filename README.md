@@ -112,7 +112,7 @@ Feel free to explore my repositories and connect with me!
 [![Mark Down Editor](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=md-editor&theme=dark&hide_border=true)](https://github.com/shubhamvermadev/md-editor)
 [![uuid-generator](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=uuid-generator&theme=dark)](https://github.com/shubhamvermadev/uuid-generator)
 [![OTP-generator](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=otp-generator&theme=dark)](https://github.com/shubhamvermadev/otp-generator)
-[![Calendarly](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=calendarly&theme=dark)](https://github.com/shubhamvermadev/calendar)
+[![Calendarly](https://github-readme-stats.vercel.app/api/pin/?username=shubhamvermadev&repo=calendarly&theme=dark)](https://github.com/shubhamvermadev/calendarly)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhamvermadev&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=3&column=5)
