@@ -37,6 +37,7 @@ Feel free to explore my repositories and connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamvermadev)
 [![Gmail](https://img.shields.io/badge/GMAIL-white?logo=gmail)](mailto:shubhamverma1024@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27925849/shubham-verma)
+[![Leet Code](https://img.shields.io/badge/-leetcode-FE7A16?logo=leetcode&logoColor=white)](https://leetcode.com/u/shubhamvermadev/)
 
 # 💻 Tech Stack:
 
