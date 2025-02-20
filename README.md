@@ -32,12 +32,13 @@ Feel free to explore my repositories and connect with me!
 [![NPM](https://img.shields.io/badge/npm-cb3837?&logo=npm)](https://www.npmjs.com/~svpkg)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-%23323330?logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shubhamvermadev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://shubhamvermadev.medium.com)
+[![Leet Code](https://img.shields.io/badge/-leetcode-FE7A16?logo=leetcode&logoColor=white)](https://leetcode.com/u/shubhamvermadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shubhamverma_dev)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?&logo=codepen&logoColor=white)](https://codepen.io/shubhamvermadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamvermadev)
 [![Gmail](https://img.shields.io/badge/GMAIL-white?logo=gmail)](mailto:shubhamverma1024@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27925849/shubham-verma)
-[![Leet Code](https://img.shields.io/badge/-leetcode-FE7A16?logo=leetcode&logoColor=white)](https://leetcode.com/u/shubhamvermadev/)
+
 
 # 💻 Tech Stack:
 
